@@ -7,7 +7,7 @@ css/plugins-a7090b9582.min.css
 js/angular-packages-1.4.10.min.js
 js/aria-ng-c7df39480e.min.js
 js/bootstrap-3.3.7.min.js
-js/echarts-3.5.4.min.js
+js/echarts-common-3.5.4.min.js
 js/jquery-2.2.4.min.js
 js/moment-with-locales-2.18.1.min.js
 js/plugins-83e4f02c05.min.js
@@ -20,4 +20,4 @@ NETWORK:
 SETTINGS:
 prefer-online
 
-# hash: 06f4fe048456f448f9d411a4a4945bd9e606e9243e55d7c2123acbd664dfb5c6
+# hash: fc9fc8dc80406e846dbcceccb9e546ea05e4e18a7f5e16351a5e6fc5ac5ab74c
