@@ -179,9 +179,12 @@ Minutes=分
 Seconds=秒
 Milliseconds=毫秒
 Http=Http
+Http (Disabled)=Http (禁用)
 Https=Https
 WebSocket=WebSocket
+WebSocket (Disabled)=WebSocket (禁用)
 WebSocket (Security)=WebSocket (安全)
+Http and WebSocket would be disabled when navigating AriaNg via Https.=使用 Https 访问 AriaNg 时，Http 和 WebSocket 将被禁用.
 POST=POST
 GET=GET
 Disabled=禁用
@@ -199,6 +202,7 @@ RPC host cannot be empty!=RPC 主机不能为空!
 RPC secret is not base64 encoded!=RPC 密钥不是 Base64 编码后的字符串!
 URL is not base64 encoded!=指定 URL 不是 Base64 编码后的字符串!
 Tap to configure and get started with AriaNg.=您还没有进行过设置, 点击这里进行设置.
+Cannot initialize WebSocket!=无法初始化 WebSocket!
 
 [error]
 unknown=未知错误.
