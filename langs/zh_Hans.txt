@@ -274,6 +274,7 @@ Aria2 RPC Request Parameters=Aria2 RPC 请求参数
 Aria2 RPC Response=Aria2 RPC 响应
 Execute=执行
 RPC method is illegal!=RPC方法错误!
+AriaNg does not support this RPC method!=AriaNg 不支持该RPC方法!
 RPC request parameters are invalid!=RPC 请求参数无效!
 Type is illegal!=类型错误!
 Parameter is invalid!=请求参数无效!
