@@ -345,12 +345,13 @@ English=Angielski
 Spanish=Hiszpański
 French=Francuski
 Italian=Włoski
+Polish=Polski
 Russian=Rosyjski
 Simplified Chinese=Chiński uproszczony
 Traditional Chinese=Chiński tradycyjny
 
 [format]
-longdate=MM/DD/RRRR HH:mm:ss
+longdate=MM/DD/YYYY HH:mm:ss
 time.millisecond={{value}} Milisekunda
 time.milliseconds={{value}} Milisekundy
 time.second={{value}} Sekunda
